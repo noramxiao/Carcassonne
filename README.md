@@ -3,7 +3,12 @@ A complete implementation of the classic tile-placement game Carcassonne for a c
 > Used object-oriented programming, Java Swing API, testing.
 
 ## How to use
-Run [NoraCarcassonne.class](NoraCarcassonne.class) to play. See [_PROSPECTUS.pdf](_PROSPECTUS.pdf) for more implementation info.
+Run [NoraCarcassonne.jar](NoraCarcassonne.jar) to play:
+```
+java -jar NoraCarcassonne.jar
+```
+
+See [_PROSPECTUS.pdf](_PROSPECTUS.pdf) for more implementation info.
 
 ## Gameplay
 <img width="1097" alt="Screenshot 2024-12-30 at 3 50 44 PM" src="https://github.com/user-attachments/assets/c931bf6a-faed-4900-8314-9a80cfb1498d" />
